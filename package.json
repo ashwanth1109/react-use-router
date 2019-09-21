@@ -1,8 +1,8 @@
 {
-  "name": "react-use-router",
+  "name": "@appq/react-use-router",
   "version": "1.0.0",
   "description": "",
-  "repository": "https://github.com/ashwanth1109/repo-name",
+  "repository": "https://github.com/ashwanth1109/react-use-router",
   "main": "lib/index.js",
   "author": "Ashwanth A R <ashwanth1109@gmail.com>",
   "license": "MIT",
